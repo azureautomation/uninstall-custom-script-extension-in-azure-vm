@@ -1,0 +1,20 @@
+{
+    "Author": "Sujay Talasila [MSFT]",
+    "ContentSize": 4116,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/uninstall-custom-script-extension-in-azure-vm/master/Uninstall-Custom-Script-Extension.ps1",
+    "DownloadCount": 1412,
+    "Id": "Uninstall-custom-script-a759269a",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 374,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-8-25T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook uninstalls the custom script extension from the Azure VMs brought up by ASR (Azure Site Recovery) failover. This runbook is to be used in the context of\u00a0ASR recovery plans for workloads hosted on StorSimple devices.",
+    "Title": "Uninstall custom script extension in Azure VM",
+    "UpdatedDate": "2017-10-4T00:00:00",
+    "Url": "https://github.com/azureautomation/uninstall-custom-script-extension-in-azure-vm",
+    "UserTags": "Disaster Recovery, Azure Site Recovery, StorSimple"
+}
